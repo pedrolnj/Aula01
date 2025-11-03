@@ -5,5 +5,8 @@ Testando GitHUb
 
 
 Variância
+
+
+
 $$s^2 = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n - 1}$$
 
