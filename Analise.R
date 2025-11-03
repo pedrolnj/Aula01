@@ -4,5 +4,9 @@ x = c(2,4,6,10)
 #calcular média
 mean(x)
 
-#SOMAa
+#soma
 median(x)
+
+library(readxl)
+BASE = read_excel("Base.xlsx")
+BASE
